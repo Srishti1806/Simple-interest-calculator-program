@@ -1,2 +1,2 @@
 # Simple-interest-calculator-program
-calculator
+this is a program on simple interest
